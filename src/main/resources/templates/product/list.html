@@ -40,6 +40,9 @@
         <div class="col-sm-3">
             <button type="button" onclick="location.href='/product/new'">New Product</button>
         </div>
+        <form th:action="@{/logout}" method="post">
+            <input type="submit" value="Sign Out"/>
+        </form>
     </div>
 </div>
 
