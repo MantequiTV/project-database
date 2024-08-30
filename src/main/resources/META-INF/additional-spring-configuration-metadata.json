@@ -1,0 +1,7 @@
+{"properties": [{
+  "name": "project-database.default-password",
+  "type": "java.lang.String",
+  "description": "Project default password."},
+{ "name" : "project-database.default-username",
+  "type" : "java.lang.String",
+  "description": "Project default username."}]}
